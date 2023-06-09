@@ -1,0 +1,17 @@
+body{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+#box{
+background-color: gray;
+height: 7rem;
+width: 30vh;
+}
+input{
+margin-top: 1rem;
+}
+button{
+display: none;
+}
